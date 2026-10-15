@@ -1,0 +1,10 @@
+[
+  {
+    "model": "Pixel 6 Pro",
+    "build": "CP3A.260905.009",
+    "partition": "boot",
+    "rootFile": "Patched_cp3a.260905.009.img",
+    "unrootFile": "",
+    "folder": "pixel_6pro"
+  }
+]
